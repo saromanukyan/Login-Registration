@@ -5,7 +5,8 @@ Implementation of a simple secure login and registration forms with menu, using 
 <p align="center">
 <img src="assets/landingpage.png"></img> <br>
 <img src="assets/loginpage.png" ></img><br>
-<img src="assets/registerpage.png" ></img>
+<img src="assets/registerpage.png" ></img><br>
+<img src="assets/welcomepage.png" ></img>
 </p><br>
 
 ## Design Patterns
